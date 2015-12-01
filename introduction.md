@@ -1,4 +1,1 @@
-Introduction
-============
-
-* Course on codeschool
+On my way to becoming a GitHub Master
